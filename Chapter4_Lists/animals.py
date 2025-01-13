@@ -1,4 +1,5 @@
 animals = ['dog', 'cat', 'hamster']
+animals.insert(0, 'rabbit')
 
 # For loop to print each animal in list
 for animal in animals:

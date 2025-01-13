@@ -1,6 +1,7 @@
 # Tuples, which are immutable or can't be changed
 buffet = ("mac and cheese", "rice", "chicken", "corn", "beef")
 
+
 print("Original List:")
 for food in buffet:
     print(food)
