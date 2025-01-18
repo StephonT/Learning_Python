@@ -1,4 +1,4 @@
-#Is the number a multiple of 10?
+# Is the number a multiple of 10?
 number = input("Give me a number from 1 through 10.")
 number = int(number)
 
