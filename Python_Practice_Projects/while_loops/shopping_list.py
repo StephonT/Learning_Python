@@ -7,7 +7,7 @@ while True:
         break
     
     shopping_list.append(item)
-    
+    print(f"{item.title()} will be added to your list.")
     
 
 print(f"\nFinal List: {shopping_list}")
