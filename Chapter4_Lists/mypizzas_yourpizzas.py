@@ -6,10 +6,10 @@ friend_pizzas = fave_pizza[:]
 fave_pizza.append('white slice')
 friend_pizzas.append('bbq chicken')
 
-print(f'My favorite pizzas are: ')
+print('My favorite pizzas are: ')
 for pizza in fave_pizza:
     print(pizza)
 
-print(f'\nMy friend\'s favorite pizzas are: ')
+print('\nMy friend\'s favorite pizzas are: ')
 for pizza in friend_pizzas:
     print(pizza)

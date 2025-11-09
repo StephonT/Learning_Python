@@ -1,4 +1,4 @@
-# Tuples, which are immutable or can't be changed
+# Tuples, which are immutable or can't be changed. The are surrounded by parenthesis rather than square brackets
 buffet = ("mac and cheese", "rice", "chicken", "corn", "beef")
 
 

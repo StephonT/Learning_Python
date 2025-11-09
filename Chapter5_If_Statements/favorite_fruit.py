@@ -14,3 +14,8 @@ if 'watermelon' in favorite_fruits:
 
 if 'peaches' in favorite_fruits:
     print("\nYou really love peaches.")
+    
+if "banans" in favorite_fruits:
+    print("\nThat\s actually nasty.")
+else:
+    print("\nBananas will never make this list.")

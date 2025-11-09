@@ -13,3 +13,7 @@ guest_list.insert(0, 'lebron')
 guest_list.insert(2, 'evelyn')
 guest_list.append('denzel')
 print(guest_list)
+
+new_list = []
+new_list.append("qualicia")
+print(new_list)
